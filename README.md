@@ -25,5 +25,3 @@
    ```
 
 4. **Ready to go!** 🚀
-   
-   You're all set to start working with the project.
